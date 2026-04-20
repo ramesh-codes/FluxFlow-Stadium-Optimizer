@@ -1,0 +1,1 @@
+const FluxFlowAssistant = require("./src/assistant"); const res = FluxFlowAssistant.getRecommendation("G1"); console.log("--- FluxFlow Assistant ---"); console.log(`Decision: ${res.status}`); console.log(`Action: ${res.suggestion}`); console.log(`Benefit: ${res.benefit}`);

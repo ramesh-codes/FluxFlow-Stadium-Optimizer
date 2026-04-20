@@ -1,0 +1,1 @@
+# FluxFlow Assistant`n`n## Vertical`nPhysical Event Experience`n`n## Logic`nUses real-time congestion thresholds (0.70) to dynamically re-route attendees to optimal gates and concessions.`n`n## Google Services`nUses Google Cloud Logging for flow analysis and is designed for Google Maps API indoor wayfinding.
